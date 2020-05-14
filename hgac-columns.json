@@ -1,0 +1,7 @@
+[
+  {"name":"title","title":"Title"},
+  {"name":"something","title":"Never seen but always around","visible":false,"filterable":false},
+  {"name":"description","title":"Description","breakpoints":"xs sm","style":{"maxWidth":200,"overflow":"hidden","textOverflow":"ellipsis","wordBreak":"keep-all","whiteSpace":"nowrap"}},
+  {"name":"providers","title":"Provider(s)"},
+  {"name":"industry","title":"Industry"}
+]
